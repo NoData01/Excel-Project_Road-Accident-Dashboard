@@ -3,3 +3,4 @@ Road accidents present a substantial threat to public safety, and the analysis o
 Through this project, we will gain expertise in utilizing the robust capabilities of Excel to convert unprocessed accident data into an engaging and dynamic dashboard with visually appealing representations.
 
 This project consist a few steps:
+![Finaldashboard](static/Dashboard_excel_car_accident.PNG)
